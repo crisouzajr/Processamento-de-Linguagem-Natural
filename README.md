@@ -1,3 +1,5 @@
 # Processamento-de-Linguagem-Natural
-Este repositório contempla uma coleção de notebooks com as principais operações computacionais necessárias ao Processamento de Linguagem Natural 
-![npl](https://user-images.githubusercontent.com/73768941/149623040-10a9dfa6-126a-4954-a42b-049da3f9d8f7.png)
+Detector de SPAN
+![Untitled-46](https://user-images.githubusercontent.com/73768941/149623071-ccce288d-06c3-407b-bad4-4ad3a7c3049d.png)
+
+
